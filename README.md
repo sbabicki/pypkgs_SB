@@ -1,3 +1,8 @@
+# Published Location: 
+https://test.pypi.org/project/pypkgs-sb/
+
+I didn't publish to the real PyPi using `poetry publish` because this is just a learning activity.
+
 # pypkgs_SB 
 
 ![](https://github.com/sbabicki/pypkgs_sb/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/sbabicki/pypkgs_sb/branch/main/graph/badge.svg)](https://codecov.io/gh/sbabicki/pypkgs_sb) ![Release](https://github.com/sbabicki/pypkgs_sb/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/pypkgs_sb/badge/?version=latest)](https://pypkgs_sb.readthedocs.io/en/latest/?badge=latest)
