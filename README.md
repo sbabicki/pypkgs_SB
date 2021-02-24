@@ -12,15 +12,15 @@ $ pip install -i https://test.pypi.org/simple/ pypkgs_sb
 
 ## Features
 
-- TODO
+- Concatenate lists of strings
 
 ## Dependencies
 
-- TODO
+- pandas
 
 ## Usage
 
-- TODO
+-  `import pypkgs-sb`
 
 ## Documentation
 
